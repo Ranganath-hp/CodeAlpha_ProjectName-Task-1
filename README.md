@@ -8,6 +8,8 @@ Overview of Project
 
 Project:Exploration of Cyber security
 
+<img width="1839" height="798" alt="Screenshot 2025-09-22 190334" src="https://github.com/user-attachments/assets/fec1ed87-e5ff-473c-949d-ba2380f1a4a2" />
+
 Objective
 
 The main objective of this project is to capture and analyze network traffic packets in order to:
@@ -50,7 +52,4 @@ Tools:
 
 Operating Systems:
 Linux/macOS/Windows (requires admin/root privileges for packet capture).
-
-OUTPUT:
-<img width="1839" height="798" alt="Screenshot 2025-09-22 190334" src="https://github.com/user-attachments/assets/71af918e-703e-46ac-b4f1-2e759b796c28" />
 
